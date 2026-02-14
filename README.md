@@ -1,4 +1,4 @@
-# ROS Kinetic Python Project
+# ROS1 Kinetic Python Project
 
 This project is a ROS Kinetic (Ubuntu) Python package that contains:
 - Publisher node

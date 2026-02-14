@@ -10,7 +10,7 @@ rate = rospy.Rate(1)
 
 my_msg = String()
 
-my_msg.data = "warshat best channel"
+my_msg.data = "Hadal Magdy"
 
 while not rospy.is_shutdown():
     pub.publish(my_msg)
